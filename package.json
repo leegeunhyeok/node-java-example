@@ -1,0 +1,22 @@
+{
+  "name": "java-example",
+  "version": "1.0.0",
+  "description": "Using java APIs in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/node-java-example.git"
+  },
+  "author": "Leegeunhyeok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/node-java-example/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/node-java-example#readme",
+  "dependencies": {
+    "java": "^0.11.0"
+  }
+}
